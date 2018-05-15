@@ -1,0 +1,22 @@
+{
+
+    "name": "testingo255/dems",
+    "version": "1.0.0",
+    "description": "testing",
+    "keywords": [
+ 
+    ],
+
+"authors": [
+	  {
+            "name": "test",
+            "email": "cyklom@gmail.com",
+			"homepage": ""
+        }
+    ],
+    "license": "ISC",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package2": "1.*"
+    }
+}
